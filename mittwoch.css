@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+}
+h1 {
+  color: tomato;
+  text-underline-position: below;
+  line-height: 50px;
+}
+p {
+  color: black;
+  width: 500px;
+  background-color: cornsilk;
+}
+#baum {
+  color: black;
+  background-color: coral;
+  width: 550px;
+}
+
+.rand {
+  border: 5px tomato solid;
+}

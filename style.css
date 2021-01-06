@@ -1,0 +1,17 @@
+#header {
+    height: 64px;
+}
+#logo {
+    height: 40px;
+}
+#menu-button{
+    background-color: transparent;
+    border: none;
+}
+
+ul {
+    list-style-type: none
+a{
+    color: bla
+    text-decoration-color:transparent;
+}
